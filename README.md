@@ -15,7 +15,7 @@ Plugin for the Eclipse IDE that provides an additional wizard to apply a copyrig
 Get in touch / bug tracker
 --------------------------
 
-Use the [Eclipse-Copyright-Generator issue tracker](http://github.com/jmini/Eclipse-Copyright-Generator/issues) on GitHub.
+Use the [Eclipse-Copyright-Generator issue tracker](http://github.com/fgwei/Eclipse-Copyright-Generator/issues) on GitHub.
 
 
 Download
